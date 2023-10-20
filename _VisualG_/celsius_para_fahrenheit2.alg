@@ -3,10 +3,7 @@ var
     c, f : real
     resp : caractere
 inicio
-      //ATENÇÃO FAZER AS SEGUINTES MELHORIAS NO CODIGO
-      //VERIFICA OS CARACETERES S E N PARA CONTINUAR OU NAO O PROGRAMA
-      //SE OS CARACTERES FOREM INVALIDOS REPETIR ATE SEREM INFORMADOS OS
-      //CARACTERES CORRETOS.
+
 
       //escreva("Digite a Temperatura em celsius: ")
       //leia(c)
