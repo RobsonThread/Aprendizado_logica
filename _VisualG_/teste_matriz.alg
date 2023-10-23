@@ -4,7 +4,7 @@ var
    M, N, i, j : inteiro
    mat: vetor[0..4, 0..4] de inteiro
 inicio
-
+   //AULA MATRIZES//
    escreva("Quantas linhas vai ter a matriz? ")
    leia(M)
    escreva("Quantas colunas vai ter a matriz? ")
